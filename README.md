@@ -33,4 +33,4 @@ Docs page: https://mohannmm.github.io/mupy/
 
 ## Tech Stack
 
-- Django
+- Python
