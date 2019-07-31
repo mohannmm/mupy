@@ -82,8 +82,6 @@ target/
 *.log
 *.pot
 *.pyc
-__pycache__/
-local_settings.py
+mupy/mupy/settings.py
 
 .env
-db.sqlite3
