@@ -82,6 +82,5 @@ target/
 *.log
 *.pot
 *.pyc
-mupy/mupy/settings.py
 
 .env
