@@ -7,20 +7,20 @@ Docs page: https://mohannmm.github.io/mupy/
 
 
 1. Activate enviornment variables inside mupyenv by typing
-    "source mupyenv/bun/activate" on mac or linux
+    `source mupyenv/bun/activate` on mac or linux
     or
-    ".\mupyenv\scripts\activate" on windows
+    `.\mupyenv\scripts\activate` on windows
 
-    (To deactivate, use same commands but replace "activate" with "deactivate")
+    (To deactivate, use same commands but replace `activate` with `deactivate`)
 
 2. Make sure you update required packages
-    "pip install -r requirements.txt"
+    `pip install -r requirements.txt`
 
 
 3. Go inside the inner mupy/ folder (type ls, you should see a manage.py)
 
 
-4. To start the server, type "python manage.py startserver"
+4. To start the server, type `python manage.py startserver`
 
 
 5. The server will start on localhost:8000
