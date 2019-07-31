@@ -29,3 +29,8 @@ Getting started
 6. Admin Credentials for localhost:8000/admin
     username: admin
     password: admin
+
+
+## Tech Stack
+
+- Django
