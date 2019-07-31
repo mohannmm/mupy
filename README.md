@@ -20,7 +20,7 @@ Docs page: https://mohannmm.github.io/mupy/
 3. Go inside the inner mupy/ folder (type ls, you should see a manage.py)
 
 
-4. To start the server, type `python manage.py startserver`
+4. To start the server, type `python manage.py runserver`
 
 
 5. The server will start on localhost:8000
