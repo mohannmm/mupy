@@ -1,3 +1,5 @@
+This project never really got started...but hey it was fun learning django!
+
 Docs page: https://mohannmm.github.io/mupy/
 
 
